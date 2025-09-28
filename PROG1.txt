@@ -1,0 +1,10 @@
+byte - https://dle.rae.es/byte
+algoritmo - https://dle.rae.es/algoritmo
+web - https://dle.rae.es/web
+programa - https://dle.rae.es/programa
+virtual - https://dle.rae.es/virtual
+interfaz - https://dle.rae.es/interfaz
+dato - https://dle.rae.es/dato
+clic - https://dle.rae.es/clic
+red - https://dle.rae.es/red
+ciberespacio - https://dle.rae.es/ciberespacio
