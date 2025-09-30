@@ -8,3 +8,13 @@ dato - https://dle.rae.es/dato
 clic - https://dle.rae.es/clic
 red - https://dle.rae.es/red
 ciberespacio - https://dle.rae.es/ciberespacio
+Farola - https://dle.rae.es/farola
+Palabra — https://dle.rae.es/palabra
+Contingente — https://dle.rae.es/contingente
+Inmolar — https://dle.rae.es/inmolar
+Lisonja — https://dle.rae.es/lisonja
+Semana — https://dle.rae.es/semana
+Guapo — https://dle.rae.es/guapo
+Exceso — https://dle.rae.es/exceso
+Relación — https://dle.rae.es/relaci%C3%B3n
+Trabazón — https://dle.rae.es/trabaz%C3%B3n
